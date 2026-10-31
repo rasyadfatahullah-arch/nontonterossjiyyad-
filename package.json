@@ -1,0 +1,15 @@
+{
+  "name": "nontonteross",
+  "version": "1.0.0",
+  "description": "NONTONTEROSS - Streaming Anime Sub Indo by jiyyad tools",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "author": "jiyyad tools",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
